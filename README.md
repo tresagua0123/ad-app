@@ -1,7 +1,7 @@
 # ad-app
 This is an application for advertising things. 
 
-## 以下の手順で立ち上がる
+## How to get started?
 
 `docker-compose build`
 
