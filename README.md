@@ -10,3 +10,11 @@ This is an application for advertising things.
 `docker-compose run api bundle exec rails db:create`
 
 `docker-compose up`
+
+## front
+
+`localhost:8000`
+
+## api
+
+`localhost:3000`
